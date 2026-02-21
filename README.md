@@ -144,9 +144,9 @@ Request Body:
 
 {
 
-&nbsp; "originalUrl": "https://example.com/very/long/url",
+ "originalUrl": "https://example.com/very/long/url",
 
-&nbsp; "expirationDate": "2026-12-31T23:59:59"
+ "expirationDate": "2026-12-31T23:59:59"
 
 }
 
@@ -160,7 +160,7 @@ Response:
 
 {
 
-&nbsp; "shortUrl": "http://localhost:8080/AbX92k"
+"shortUrl": "http://localhost:8080/AbX92k"
 
 }
 
